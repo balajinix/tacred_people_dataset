@@ -1,0 +1,12 @@
+child
+children
+colleague
+no_relation
+other_family
+parent
+parents
+partner
+relations
+rival
+siblings
+spouse
